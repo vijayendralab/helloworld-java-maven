@@ -45,8 +45,8 @@
         <url>http://13.233.159.196:8081/nexus/content/repositories/vijay/</url>
     </repository>
     <snapshotRepository>
-        <id>Internal Release</id>
-        <name>snapshot softx</name>
+        <id>deployment</id>
+        <name>Internal Release</name>
         <url>http://13.233.159.196:8081/nexus/content/repositories/vijay2/</url>
     </snapshotRepository>
 </distributionManagement>
